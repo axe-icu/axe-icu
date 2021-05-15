@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @axe
+- 👋 Hi, I’m **axe**
 - 👀 I’m interested in modding games
 - 🌱 I’m currently learning Rust/CPP/C
 
